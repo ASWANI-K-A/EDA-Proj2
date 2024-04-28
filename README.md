@@ -1,5 +1,5 @@
 # REPAYING THE CREDIT
-To analyse the data and identify those customers who have lower probability of becoming a defaulter in Gold Atlantis , a credit providing firm.
+Interest earned from credit card holders is one of the primary ways in which banks earn their profits. To analyse whether a potential new customer will turn out to be profitable for the bank or a potential defaulter of the credit card loan amount. This would help the bank decide if they would want to accept or decline a credit card application from a prospective new customer.
 
 # Business objective
 To analyse the data and identify those customers who have lower probability of becoming a defaulter in Gold Atlantis , a credit providing firm .
